@@ -7,14 +7,14 @@ Learning with FastDDS, Go Go Go！
 
 * The required environment of the code.
 
-# Envirment in x86
+## Envirment in x86
 
-# Envirment in arrch64
+## Envirment in arrch64
 
-# Using in X86
+## Using in X86
 * Cmake
 
-# Using in arrch64
+## Using in arrch64
 
 
 ## Requirements
